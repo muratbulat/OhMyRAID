@@ -4,7 +4,7 @@ Welcome to **OhMyRAID**, the ultimate comparison of enterprise all-flash storage
 
 ## 📊 Comparison Table
 
-| **Vendor**    | **Model**            | **Tier**        | **Max Capacity** | **IOPS**        | **Latency** | **Connectivity**      | **Data Protection**       | **Scalability**      | **VAAI Support** | **Price (Approx.)** |
+| **Vendor**    | **Model**            | **Level**        | **Max Capacity** | **IOPS**        | **Latency** | **Connectivity**      | **Data Protection**       | **Scalability**      | **VAAI Support** | **Price (Approx.)** |
 |---------------|----------------------|-----------------|------------------|-----------------|-------------|----------------------|--------------------------|---------------------|------------------|---------------------|
 | **Huawei**    | OceanStor Dorado     | High-End        | X TB             | X Million IOPS  | X ms        | FC, iSCSI, NVMe/TCP  | RAID, Snapshot, Backup   | Scale-up/Scale-out  | Yes              | $$$                 |
 | **IBM**       | FlashSystem 9500     | High-End        | X TB             | X Million IOPS  | X ms        | FC, iSCSI, NVMe/TCP  | RAID, Safeguarded Copy   | Scale-up            | Yes              | $$$$                |
